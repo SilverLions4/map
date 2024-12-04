@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">mapas</string>
+    <!-- Texto del botón para agregar marcador -->
+    <string name="add_marker_button">Agregar Marcador</string>
+
+    <!-- Texto del botón para eliminar marcadores -->
+    <string name="remove_marker_button">Eliminar Marcadores</string>
+
+    <!-- Texto para un marcador predeterminado -->
+    <string name="default_marker_title">Nuevo Marcador</string>
+</resources>
